@@ -2,4 +2,4 @@
 
  	-fix-B
 
-	faeture-CCC
+	feature-CCC
